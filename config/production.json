@@ -1,5 +1,0 @@
-{
-  "host": "https://Booki.vercel.app",
-  "db": "mongodb+srv://dbBooki:Booki123@booki.zwuoi.mongodb.net/test",
-  "mediaDir": "public/assets"
-}

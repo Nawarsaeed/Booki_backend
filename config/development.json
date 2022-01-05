@@ -1,6 +1,0 @@
-{
-  "host": "http://192.168.10.223:9000",
-  "assetsBaseUrl": "http://192.168.10.223:9000/assets/",
-  "db": "mongodb+srv://dbBooki:Booki123@booki.zwuoi.mongodb.net/test",
-  "mediaDir": "../public"
-}
