@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "delay": 1000,
+  "maxImageCount": 3,
+  "port": "9000"
+}
