@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "SET NODE_CONFIG_ENV=development&&SET NODE_ENV=development&& node index.js",
+    "prod": "SET NODE_CONFIG_ENV=production&&SET NODE_ENV=production&& node server.js"
   },
   "engines": {
     "node": "14.18.1"
